@@ -10,7 +10,7 @@ We built a Streamlit-based tool that accepts a CSV of leads (name, email, role, 
   - Role relevance (Founder/CEO → higher)
   - Domain signals (e.g., `.ai`)
   - Verified status
-
+https://smart-lead-prioritizer.streamlit.app/
 ![Architecture](https://raw.githubusercontent.com/akshit29g/smart-lead-prioritizer/main/architecture.png)
 
 ## 🧪 Model Selection & Data Processing
