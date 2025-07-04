@@ -3,6 +3,7 @@
 ## 🎯 Objective
 The original SaaSquatchLeads tool efficiently scrapes lead data but lacks validation and prioritization. Our goal was to enhance lead quality and sales efficiency by adding two core modules: **email verification** and **lead scoring** — all within a 5-hour build constraint.
 
+
 ## ⚙️ Approach & Architecture
 We built a Streamlit-based tool that accepts a CSV of leads (name, email, role, domain) and outputs a scored, verified dataset. The core workflow includes:
 - Email verification via SMTP (simple, fast, doesn't require paid APIs)
@@ -24,6 +25,9 @@ All processing was done using `pandas` and built-in Python modules.
 - SMTP ping returned ~80–90% validation accuracy (some edge cases dropped)
 - Score distribution showed clear separation of high- and low-priority leads
 - SDRs can now eliminate ~30% of invalid or low-fit leads before outreach
+
+## Video walkthrough  
+https://www.loom.com/share/714e13129ae04406bb081fc553ef22e4?sid=495dec9b-d732-458c-99d6-80fb778d4ae9
 
 ## ✅ Value Addition
 - Enhances lead conversion quality and outreach efficiency
