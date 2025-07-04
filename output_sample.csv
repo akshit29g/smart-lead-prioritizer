@@ -1,3 +1,11 @@
-name,email,role,domain
-Alice Smith,alice@startupai.com,Founder,startupai.com
-
+name,email,role,domain,verified,score
+Maya Verma,maya@finwise.ai,CEO,finwise.ai,True,90
+Amit Das,amit@retailrocket.com,Growth Manager,retailrocket.com,True,70
+Sara Khan,sara@edunext.io,Founder,edunext.io,True,90
+Rohan Mehta,rohan@socialhype.in,Marketing Head,socialhype.in,False,20
+Neha Singh,neha@bytecruncher.tech,Sales Lead,bytecruncher.tech,True,50
+Vikram Rao,vikram@medsync.ai,CTO,medsync.ai,False,0
+Ayesha Ali,ayesha@legalnova.org,Operations Manager,legalnova.org,True,20
+Kunal Roy,kunal@cloudignite.io,Founder,cloudignite.io,True,90
+Pooja Nair,pooja@innoanalytics.com,Chief Strategy Officer,innoanalytics.com,False,0
+Arjun Kapoor,arjun@finstack.co,VP Sales,finstack.co,True,50
